@@ -7,24 +7,24 @@ app.use(cors())
 
 const rappers = {
   '21 savage': {
-    age: 29,
-    birthName: 'Sheyaa Bin Abraham-Joseph',
-    birthLocation: 'London, England',
+    'age': 29,
+    'birthName': 'Sheyaa Bin Abraham-Joseph',
+    'birthLocation': 'London, England',
   },
-  drake: {
-    age: 35,
-    birthName: 'Aubrey Graham',
-    birthLocation: 'Toronto, Canada',
+  'drake': {
+    'age': 35,
+    'birthName': 'Aubrey Graham',
+    'birthLocation': 'Toronto, Canada',
   },
   'j cole': {
-    age: 35,
-    birthName: 'Jermaine Cole',
-    birthLocation: 'Fayettville, North Carolina',
+    'age': 35,
+    'birthName': 'Jermaine Cole',
+    'birthLocation': 'Fayettville, North Carolina',
   },
-  unknown: {
-    age: 0,
-    birthName: 'unknown',
-    birthLocation: 'unknown',
+  'unknown': {
+    'age': 0,
+    'birthName': 'unknown',
+    'birthLocation': 'unknown',
   },
 }
 
